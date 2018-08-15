@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "repository": "git@github.com:mrwest808/browsersync.git",
+  "devDependencies": {
+    "browser-sync": "^2.24.6"
+  },
+  "scripts": {
+    "start": "browser-sync start --server \"src\" --files \"src/**\""
+  }
+}
