@@ -1,5 +1,5 @@
 # "browsersync" degit template
 
 ```bash
-degit mrwest808/browsersync
+degit mrwest808/browsersync-template
 ```
