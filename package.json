@@ -1,6 +1,6 @@
 {
   "private": true,
-  "repository": "git@github.com:mrwest808/browsersync.git",
+  "repository": "git@github.com:mrwest808/browsersync-template.git",
   "devDependencies": {
     "browser-sync": "^2.24.6"
   },
